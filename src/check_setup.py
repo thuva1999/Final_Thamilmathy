@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent.parent
 LIBRARIES = [
     "torch", "torchvision", "numpy", "pandas", "openpyxl", "PIL", "sklearn",
     "skimage", "matplotlib", "imagehash", "streamlit",
-    "sentence_transformers", "dotenv", "anthropic",
+    "sentence_transformers", "dotenv", "google.genai",
 ]
 
 DATA_FOLDERS = ["data/raw/sarcld2024", "data/raw/ewu_cotton", "data/raw/treatment"]
@@ -20,11 +20,11 @@ IMAGE_TYPES = {".jpg", ".jpeg", ".png", ".bmp"}
 
 
 def check_python():
-    """Print the Python version and warn if it is not 3.11."""
+    """Print the Python version and warn if it is not 3.14."""
     version = sys.version.split()[0]
     print(f"Python {version}  ({sys.executable})")
-    if sys.version_info[:2] != (3, 11):
-        print("  WARNING: the project expects Python 3.11 in .venv")
+    if sys.version_info[:2] != (3, 14):
+        print("  WARNING: the project expects Python 3.14 in .venv")
 
 
 def check_libraries():

@@ -13,15 +13,14 @@ CSAI-3210 Introduction to AI, final project, Webster University in Tashkent (Fal
 
 ## Setup (Windows, PowerShell, CPU only)
 ```powershell
-# 1. Install Python 3.11 (once)
-winget install -e --id Python.Python.3.11
+# 1. Python 3.14 must be installed (python.org)
 
 # 2. Get the code
 git clone https://github.com/thuva1999/Final_Thamilmathy.git
 cd Final_Thamilmathy
 
 # 3. Create and activate the virtual environment
-py -3.11 -m venv .venv
+py -3.14 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
 # 4. Install the libraries

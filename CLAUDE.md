@@ -1,10 +1,10 @@
-# CottonCare: project brief for Claude
+﻿# CottonCare: project brief for Claude
 
 This is my CSAI-3210 Introduction to AI final project at Webster University in Tashkent (Fall 2026). Read this whole file before writing code, and follow it in every session.
 
 ## About me and my setup
 - Windows laptop, CPU only (no GPU). Use PowerShell commands.
-- Python 3.11 in a virtual environment (`.venv`).
+- Python 3.14 in a virtual environment (`.venv`). (Changed from 3.11 on 2026-11-22: 3.14 is already installed.)
 - I am not a strong programmer. Explain each step briefly, give exact commands, and say where each file goes.
 - Repo: https://github.com/thuva1999/Final_Thamilmathy
 - Commit after each working step with a clear message.
@@ -101,8 +101,11 @@ Final_Thamilmathy/
 
 ## Progress log and facts found (Claude updates this)
 - **2026-11-22, Step 1 (Setup)** done: CLAUDE.md, README.md, requirements.txt, .gitignore, .env.example, src/check_setup.py, git repo connected to GitHub.
-- Laptop has only Python 3.14 installed at first; Python 3.11 must be installed for `.venv` (`winget install -e --id Python.Python.3.11`).
+- Python 3.14 is used for `.venv` (decided 2026-11-22; no 3.11 install).
 - Project folder is inside OneDrive. `.venv` and `data/raw/` are large; OneDrive syncing them can lock files during `pip install`.
 - SAR-CLD-2024 class folder names (seen in the Augmented download; check the Original matches):
   `Bacterial Blight`, `Curl Virus`, `Healthy Leaf`, `Herbicide Growth Damage`, `Leaf Hopper Jassids`, `Leaf Redding`, `Leaf Variegation`.
 - Only the SAR-CLD-2024 **Augmented** zip had been downloaded at Step 1; the **Original** images are still needed. The augmented set is never used.
+
+- LLM for advice: **Google Gemini free tier** (package `google-genai`, key in `.env` as `LLM_API_KEY`), decided 2026-11-22.
+- 2026-11-22: `Augmented Dataset/` contains only the 7,000 augmented SAR-CLD-2024 images. Original SAR-CLD images, EWU images and the treatment table are still to be downloaded.

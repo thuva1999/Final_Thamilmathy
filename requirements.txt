@@ -28,5 +28,5 @@ sentence-transformers
 # Reads the API key from .env
 python-dotenv
 
-# LLM client (used only inside src/advisor.py, can be swapped in Step 6)
-anthropic
+# LLM client: Google Gemini free tier (used only inside src/advisor.py)
+google-genai
