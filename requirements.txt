@@ -1,0 +1,32 @@
+# CPU-only PyTorch wheels (smaller download, no GPU needed)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+
+# Data and maths
+numpy
+pandas
+openpyxl          # reads the treatment table if it is an Excel file
+pillow
+
+# Classical ML baselines and image features (colour histograms, LBP/GLCM)
+scikit-learn
+scikit-image
+
+# Plots for the report
+matplotlib
+
+# Duplicate / near-duplicate image check (perceptual hash)
+imagehash
+
+# Web app
+streamlit
+
+# RAG: sentence embeddings for knowledge-base search
+sentence-transformers
+
+# Reads the API key from .env
+python-dotenv
+
+# LLM client (used only inside src/advisor.py, can be swapped in Step 6)
+anthropic

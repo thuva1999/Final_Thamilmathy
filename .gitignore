@@ -1,0 +1,25 @@
+# Python / virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets (API keys)
+.env
+
+# Datasets: images are never committed
+data/raw/
+*.zip
+Augmented Dataset/
+Original Dataset/
+
+# Trained model weights (big files; added only at deployment step)
+models/*.pt
+models/*.pth
+
+# Photos uploaded by app users
+uploads/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
