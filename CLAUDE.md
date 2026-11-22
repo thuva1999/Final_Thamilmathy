@@ -109,3 +109,4 @@ Final_Thamilmathy/
 
 - LLM for advice: **Google Gemini free tier** (package `google-genai`, key in `.env` as `LLM_API_KEY`), decided 2026-11-22.
 - 2026-11-22: `Augmented Dataset/` contains only the 7,000 augmented SAR-CLD-2024 images. Original SAR-CLD images, EWU images and the treatment table are still to be downloaded.
+- 2026-11-22: EWU originals extracted to `data/raw/ewu_cotton/Cotton_Original_Dataset/<class>/*.png` (1,373 images). Class folders: `Alternaria Leaf Spot` 173, `Bacterial Blight` 218, `Fusarium Wilt` 337, `Healthy Leaf` 333, `Verticillium Wilt` 312. Shared with SAR-CLD-2024: `Bacterial Blight`, `Healthy Leaf` (same spelling).

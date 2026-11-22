@@ -1,4 +1,4 @@
-# Python / virtual environment
+﻿# Python / virtual environment
 .venv/
 __pycache__/
 *.pyc
@@ -11,6 +11,7 @@ data/raw/
 *.zip
 Augmented Dataset/
 Original Dataset/
+Cotton Leaf Image Dataset*/
 
 # Trained model weights (big files; added only at deployment step)
 models/*.pt
