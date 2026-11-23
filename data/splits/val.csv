@@ -1,0 +1,320 @@
+path,class,group
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00014.jpg,Bacterial Blight,13
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00022.jpg,Bacterial Blight,21
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00035.jpg,Bacterial Blight,34
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00050.jpg,Bacterial Blight,49
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00053.jpg,Bacterial Blight,52
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00059.jpg,Bacterial Blight,58
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00060.jpg,Bacterial Blight,59
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00064.jpg,Bacterial Blight,63
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00072.jpg,Bacterial Blight,71
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00075.jpg,Bacterial Blight,74
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00081.jpg,Bacterial Blight,80
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00084.jpg,Bacterial Blight,83
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00088.jpg,Bacterial Blight,87
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00093.jpg,Bacterial Blight,92
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00100.jpg,Bacterial Blight,99
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00107.jpg,Bacterial Blight,106
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00117.jpg,Bacterial Blight,116
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00122.jpg,Bacterial Blight,121
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00132.jpg,Bacterial Blight,131
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00135.jpg,Bacterial Blight,134
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00158.jpg,Bacterial Blight,157
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00172.jpg,Bacterial Blight,171
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00188.jpg,Bacterial Blight,187
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00189.jpg,Bacterial Blight,188
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00190.jpg,Bacterial Blight,189
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00192.jpg,Bacterial Blight,191
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00195.jpg,Bacterial Blight,194
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00206.jpg,Bacterial Blight,205
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00208.jpg,Bacterial Blight,207
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00209.jpg,Bacterial Blight,208
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00210.jpg,Bacterial Blight,209
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00215.jpg,Bacterial Blight,214
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00217.jpg,Bacterial Blight,216
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00225.jpg,Bacterial Blight,224
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00230.jpg,Bacterial Blight,229
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00244.jpg,Bacterial Blight,243
+data/raw/sarcld2024/Original Dataset/Bacterial Blight/BBC00248.jpg,Bacterial Blight,247
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00002.jpg,Curl Virus,251
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00006.jpg,Curl Virus,255
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00009.jpg,Curl Virus,258
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00017.jpg,Curl Virus,266
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00023.jpg,Curl Virus,272
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00042.jpg,Curl Virus,291
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00051.jpg,Curl Virus,300
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00056.jpg,Curl Virus,305
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00059.jpg,Curl Virus,308
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00065.jpg,Curl Virus,314
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00100.jpg,Curl Virus,349
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00104.jpg,Curl Virus,353
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00117.jpg,Curl Virus,366
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00121.jpg,Curl Virus,370
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00134.jpg,Curl Virus,383
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00140.jpg,Curl Virus,389
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00145.jpg,Curl Virus,394
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00149.jpg,Curl Virus,398
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00152.jpg,Curl Virus,401
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00156.jpg,Curl Virus,405
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00157.jpg,Curl Virus,406
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00158.jpg,Curl Virus,407
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00165.jpg,Curl Virus,414
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00166.jpg,Curl Virus,415
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00179.jpg,Curl Virus,428
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00186.jpg,Curl Virus,435
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00193.jpg,Curl Virus,442
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00197.jpg,Curl Virus,446
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00200.jpg,Curl Virus,449
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00213.jpg,Curl Virus,462
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00228.jpg,Curl Virus,477
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00232.jpg,Curl Virus,481
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00238.jpg,Curl Virus,487
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00243.jpg,Curl Virus,492
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00251.jpg,Curl Virus,500
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00257.jpg,Curl Virus,506
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00261.jpg,Curl Virus,510
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00269.jpg,Curl Virus,518
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00272.jpg,Curl Virus,521
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00291.jpg,Curl Virus,540
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00293.jpg,Curl Virus,542
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00294.jpg,Curl Virus,543
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00303.jpg,Curl Virus,552
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00304.jpg,Curl Virus,553
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00322.jpg,Curl Virus,571
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00336.jpg,Curl Virus,585
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00345.jpg,Curl Virus,594
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00351.jpg,Curl Virus,600
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00354.jpg,Curl Virus,603
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00364.jpg,Curl Virus,613
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00367.jpg,Curl Virus,616
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00371.jpg,Curl Virus,620
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00373.jpg,Curl Virus,622
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00390.jpg,Curl Virus,639
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00397.jpg,Curl Virus,646
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00401.jpg,Curl Virus,650
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00402.jpg,Curl Virus,651
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00404.jpg,Curl Virus,653
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00409.jpg,Curl Virus,658
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00415.jpg,Curl Virus,664
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00420.jpg,Curl Virus,669
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00422.jpg,Curl Virus,671
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00428.jpg,Curl Virus,677
+data/raw/sarcld2024/Original Dataset/Curl Virus/CV00430.jpg,Curl Virus,679
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00001.jpg,Healthy Leaf,681
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00003.jpg,Healthy Leaf,683
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00005.jpg,Healthy Leaf,685
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00010.jpg,Healthy Leaf,690
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00026.jpg,Healthy Leaf,706
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00027.jpg,Healthy Leaf,707
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00028.jpg,Healthy Leaf,708
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00030.jpg,Healthy Leaf,710
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00035.jpg,Healthy Leaf,715
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00047.jpg,Healthy Leaf,727
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00053.jpg,Healthy Leaf,733
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00056.jpg,Healthy Leaf,736
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00060.jpg,Healthy Leaf,740
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00091.jpg,Healthy Leaf,770
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00100.jpg,Healthy Leaf,779
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00107.jpg,Healthy Leaf,782
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00115.jpg,Healthy Leaf,789
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00116.jpg,Healthy Leaf,790
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00121.jpg,Healthy Leaf,795
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00124.jpg,Healthy Leaf,798
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00140.jpg,Healthy Leaf,813
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00141.jpg,Healthy Leaf,814
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00143.jpg,Healthy Leaf,816
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00148.jpg,Healthy Leaf,821
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00152.jpg,Healthy Leaf,825
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00160.jpg,Healthy Leaf,833
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00162.jpg,Healthy Leaf,835
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00172.jpg,Healthy Leaf,845
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00185.jpg,Healthy Leaf,858
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00193.jpg,Healthy Leaf,866
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00198.jpg,Healthy Leaf,871
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00201.jpg,Healthy Leaf,874
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00204.jpg,Healthy Leaf,877
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00212.jpg,Healthy Leaf,885
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00227.jpg,Healthy Leaf,900
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00235.jpg,Healthy Leaf,908
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00237.jpg,Healthy Leaf,910
+data/raw/sarcld2024/Original Dataset/Healthy Leaf/HL00241.jpg,Healthy Leaf,914
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00001.jpg,Herbicide Growth Damage,931
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00003.jpg,Herbicide Growth Damage,933
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00005.jpg,Herbicide Growth Damage,935
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00013.jpg,Herbicide Growth Damage,943
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00020.jpg,Herbicide Growth Damage,950
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00036.jpg,Herbicide Growth Damage,966
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00038.jpg,Herbicide Growth Damage,968
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00040.jpg,Herbicide Growth Damage,970
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00062.jpg,Herbicide Growth Damage,992
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00064.jpg,Herbicide Growth Damage,994
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00070.jpg,Herbicide Growth Damage,1000
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00075.jpg,Herbicide Growth Damage,1005
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00077.jpg,Herbicide Growth Damage,1007
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00084.jpg,Herbicide Growth Damage,1014
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00090.jpg,Herbicide Growth Damage,1020
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00100.jpg,Herbicide Growth Damage,1030
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00101.jpg,Herbicide Growth Damage,1031
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00118.jpg,Herbicide Growth Damage,1048
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00130.jpg,Herbicide Growth Damage,1060
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00133.jpg,Herbicide Growth Damage,1063
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00134.jpg,Herbicide Growth Damage,1064
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00137.jpg,Herbicide Growth Damage,1067
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00140.jpg,Herbicide Growth Damage,1070
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00143.jpg,Herbicide Growth Damage,1073
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00161.jpg,Herbicide Growth Damage,1091
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00168.jpg,Herbicide Growth Damage,1098
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00173.jpg,Herbicide Growth Damage,1103
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00179.jpg,Herbicide Growth Damage,1109
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00185.jpg,Herbicide Growth Damage,1115
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00194.jpg,Herbicide Growth Damage,1124
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00198.jpg,Herbicide Growth Damage,1128
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00212.jpg,Herbicide Growth Damage,1142
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00220.jpg,Herbicide Growth Damage,1150
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00227.jpg,Herbicide Growth Damage,1157
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00229.jpg,Herbicide Growth Damage,1159
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00230.jpg,Herbicide Growth Damage,1160
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00237.jpg,Herbicide Growth Damage,1167
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00243.jpg,Herbicide Growth Damage,1173
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00254.jpg,Herbicide Growth Damage,1184
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00276.jpg,Herbicide Growth Damage,1206
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00277.jpg,Herbicide Growth Damage,1207
+data/raw/sarcld2024/Original Dataset/Herbicide Growth Damage/HGD00280.jpg,Herbicide Growth Damage,1210
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00001.jpg,Leaf Hopper Jassids,1211
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00007.jpg,Leaf Hopper Jassids,1217
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00008.jpg,Leaf Hopper Jassids,1218
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00010.jpg,Leaf Hopper Jassids,1220
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00018.jpg,Leaf Hopper Jassids,1228
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00019.jpg,Leaf Hopper Jassids,1229
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00032.jpg,Leaf Hopper Jassids,1242
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00035.jpg,Leaf Hopper Jassids,1245
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00036.jpg,Leaf Hopper Jassids,1246
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00057.jpg,Leaf Hopper Jassids,1267
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00067.jpg,Leaf Hopper Jassids,1277
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00072.jpg,Leaf Hopper Jassids,1282
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00088.jpg,Leaf Hopper Jassids,1298
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00093.jpg,Leaf Hopper Jassids,1303
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00097.jpg,Leaf Hopper Jassids,1307
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00103.jpg,Leaf Hopper Jassids,1313
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00110.jpg,Leaf Hopper Jassids,1320
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00129.jpg,Leaf Hopper Jassids,1339
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00132.jpg,Leaf Hopper Jassids,1342
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00142.jpg,Leaf Hopper Jassids,1352
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00144.jpg,Leaf Hopper Jassids,1354
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00157.jpg,Leaf Hopper Jassids,1367
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00161.jpg,Leaf Hopper Jassids,1371
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00165.jpg,Leaf Hopper Jassids,1375
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00168.jpg,Leaf Hopper Jassids,1378
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00178.jpg,Leaf Hopper Jassids,1388
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00187.jpg,Leaf Hopper Jassids,1397
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00189.jpg,Leaf Hopper Jassids,1399
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00194.jpg,Leaf Hopper Jassids,1404
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00196.jpg,Leaf Hopper Jassids,1406
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00204.jpg,Leaf Hopper Jassids,1414
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00207.jpg,Leaf Hopper Jassids,1417
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00209.jpg,Leaf Hopper Jassids,1419
+data/raw/sarcld2024/Original Dataset/Leaf Hopper Jassids/LHJ00225.jpg,Leaf Hopper Jassids,1435
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00003.jpg,Leaf Redding,1438
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00009.jpg,Leaf Redding,1444
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00016.jpg,Leaf Redding,1451
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00029.jpg,Leaf Redding,1464
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00039.jpg,Leaf Redding,1474
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00040.jpg,Leaf Redding,1475
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00047.jpg,Leaf Redding,1482
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00052.jpg,Leaf Redding,1487
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00054.jpg,Leaf Redding,1489
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00062.jpg,Leaf Redding,1497
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00075.jpg,Leaf Redding,1509
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00090.jpg,Leaf Redding,1464
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00092.jpg,Leaf Redding,1525
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00108.jpg,Leaf Redding,1541
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00127.jpg,Leaf Redding,1560
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00145.jpg,Leaf Redding,1578
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00149.jpg,Leaf Redding,1582
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00156.jpg,Leaf Redding,1589
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00163.jpg,Leaf Redding,1596
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00164.jpg,Leaf Redding,1597
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00180.jpg,Leaf Redding,1613
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00181.jpg,Leaf Redding,1614
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00186.jpg,Leaf Redding,1619
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00191.jpg,Leaf Redding,1624
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00196.jpg,Leaf Redding,1629
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00201.jpg,Leaf Redding,1634
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00221.jpg,Leaf Redding,1654
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00230.jpg,Leaf Redding,1662
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00231.jpg,Leaf Redding,1663
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00243.jpg,Leaf Redding,1675
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00247.jpg,Leaf Redding,1679
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00254.jpg,Leaf Redding,1686
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00255.jpg,Leaf Redding,1687
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00263.jpg,Leaf Redding,1695
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00270.jpg,Leaf Redding,1702
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00277.jpg,Leaf Redding,1709
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00278.jpg,Leaf Redding,1710
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00292.jpg,Leaf Redding,1724
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00299.jpg,Leaf Redding,1731
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00309.jpg,Leaf Redding,1741
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00314.jpg,Leaf Redding,1746
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00322.jpg,Leaf Redding,1754
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00327.jpg,Leaf Redding,1759
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00328.jpg,Leaf Redding,1760
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00337.jpg,Leaf Redding,1769
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00339.jpg,Leaf Redding,1771
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00344.jpg,Leaf Redding,1776
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00363.jpg,Leaf Redding,1795
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00376.jpg,Leaf Redding,1808
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00380.jpg,Leaf Redding,1812
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00382.jpg,Leaf Redding,1814
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00384.jpg,Leaf Redding,1816
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00395.jpg,Leaf Redding,1827
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00401.jpg,Leaf Redding,1833
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00413.jpg,Leaf Redding,1845
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00420.jpg,Leaf Redding,1852
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00429.jpg,Leaf Redding,1861
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00431.jpg,Leaf Redding,1863
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00433.jpg,Leaf Redding,1865
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00436.jpg,Leaf Redding,1868
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00444.jpg,Leaf Redding,1876
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00447.jpg,Leaf Redding,1879
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00450.jpg,Leaf Redding,1882
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00454.jpg,Leaf Redding,1886
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00455.jpg,Leaf Redding,1887
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00456.jpg,Leaf Redding,1888
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00460.jpg,Leaf Redding,1892
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00481.jpg,Leaf Redding,1913
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00482.jpg,Leaf Redding,1914
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00490.jpg,Leaf Redding,1921
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00494.jpg,Leaf Redding,1925
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00495.jpg,Leaf Redding,1926
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00498.jpg,Leaf Redding,1929
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00505.jpg,Leaf Redding,1936
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00509.jpg,Leaf Redding,1940
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00510.jpg,Leaf Redding,1941
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00511.jpg,Leaf Redding,1942
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00516.jpg,Leaf Redding,1947
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00519.jpg,Leaf Redding,1950
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00532.jpg,Leaf Redding,1963
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00551.jpg,Leaf Redding,1982
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00556.jpg,Leaf Redding,1987
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00560.jpg,Leaf Redding,1991
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00568.jpg,Leaf Redding,1999
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00569.jpg,Leaf Redding,2000
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00570.jpg,Leaf Redding,2001
+data/raw/sarcld2024/Original Dataset/Leaf Redding/LR00578.jpg,Leaf Redding,2009
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00001.jpg,Leaf Variegation,2010
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00012.jpg,Leaf Variegation,2021
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00020.jpg,Leaf Variegation,2029
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00023.jpg,Leaf Variegation,2032
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00033.jpg,Leaf Variegation,2042
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00039.jpg,Leaf Variegation,2048
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00044.jpg,Leaf Variegation,2053
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00051.jpg,Leaf Variegation,2060
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00053.jpg,Leaf Variegation,2062
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00056.jpg,Leaf Variegation,2065
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00057.jpg,Leaf Variegation,2066
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00069.jpg,Leaf Variegation,2078
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00073.jpg,Leaf Variegation,2082
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00078.jpg,Leaf Variegation,2087
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00084.jpg,Leaf Variegation,2093
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00097.jpg,Leaf Variegation,2106
+data/raw/sarcld2024/Original Dataset/Leaf Variegation/LV00113.jpg,Leaf Variegation,2122

@@ -1,0 +1,5 @@
+model,split,accuracy,macro_f1
+majority_class,val,0.273,0.061
+majority_class,test,0.273,0.061
+random_forest,val,0.915,0.914
+random_forest,test,0.893,0.891

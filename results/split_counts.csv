@@ -1,0 +1,9 @@
+class,train,val,test
+Bacterial Blight,175,37,38
+Curl Virus,298,64,64
+Healthy Leaf,177,38,37
+Herbicide Growth Damage,196,42,42
+Leaf Hopper Jassids,157,34,34
+Leaf Redding,403,87,87
+Leaf Variegation,81,17,17
+TOTAL,1487,319,319

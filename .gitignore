@@ -25,3 +25,6 @@ uploads/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Cached features (recomputed automatically)
+data/cache/

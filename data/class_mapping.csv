@@ -1,0 +1,11 @@
+class,sar_cld_2024_folder,ewu_folder,used_in_external_test
+Alternaria Leaf Spot,,Alternaria Leaf Spot,False
+Bacterial Blight,Bacterial Blight,Bacterial Blight,True
+Curl Virus,Curl Virus,,False
+Fusarium Wilt,,Fusarium Wilt,False
+Healthy Leaf,Healthy Leaf,Healthy Leaf,True
+Herbicide Growth Damage,Herbicide Growth Damage,,False
+Leaf Hopper Jassids,Leaf Hopper Jassids,,False
+Leaf Redding,Leaf Redding,,False
+Leaf Variegation,Leaf Variegation,,False
+Verticillium Wilt,,Verticillium Wilt,False
