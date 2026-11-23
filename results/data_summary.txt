@@ -1,0 +1,27 @@
+CottonCare - data exploration summary
+
+SAR-CLD-2024: 2137 images, 7 classes
+  largest class:  Leaf Redding (578)
+  smallest class: Leaf Variegation (116)
+  imbalance ratio: 5.0x
+  image sizes: 1 different; most common: 800x800 (2137)
+
+EWU: 1373 images, 5 classes
+  largest class:  Fusarium Wilt (337)
+  smallest class: Alternaria Leaf Spot (173)
+  imbalance ratio: 1.9x
+  image sizes: 1 different; most common: 700x700 (1373)
+
+Classes in both image datasets: Bacterial Blight, Healthy Leaf
+
+Near-duplicate pairs (pHash distance <= 4): 293
+  within EWU, DIFFERENT class: 26 pairs (25 with distance 0)
+  within EWU, same class: 255 pairs (224 with distance 0)
+  within SAR-CLD-2024, DIFFERENT class: 6 pairs (5 with distance 0)
+  within SAR-CLD-2024, same class: 6 pairs (0 with distance 0)
+  images involved: 541
+
+Treatment table: 71 rows, 12 diseases
+  features: Symptoms, Favorable_Conditions, Physical_measures, Biological_measures, Fungicides, Preventive_measures, Biological, Bactericides, Pesticides, Hebicides, Insecticides, Preventive_measeures, Fungisides
+  SAR-CLD classes found in table: ['Bacterial Blight', 'Curl Virus', 'Herbicide Growth Damage', 'Leaf Hopper Jassids', 'Leaf Redding', 'Leaf Variegation']
+  SAR-CLD classes NOT in table:   ['Healthy Leaf']

@@ -1,0 +1,13 @@
+dataset,class,images
+EWU,Alternaria Leaf Spot,173
+EWU,Bacterial Blight,218
+EWU,Fusarium Wilt,337
+EWU,Healthy Leaf,333
+EWU,Verticillium Wilt,312
+SAR-CLD-2024,Bacterial Blight,250
+SAR-CLD-2024,Curl Virus,431
+SAR-CLD-2024,Healthy Leaf,257
+SAR-CLD-2024,Herbicide Growth Damage,280
+SAR-CLD-2024,Leaf Hopper Jassids,225
+SAR-CLD-2024,Leaf Redding,578
+SAR-CLD-2024,Leaf Variegation,116
