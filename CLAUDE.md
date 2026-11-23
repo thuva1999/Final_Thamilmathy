@@ -100,6 +100,8 @@ Final_Thamilmathy/
 ---
 
 ## Progress log and facts found (Claude updates this)
+**NEXT SESSION: start Step 6 (knowledge base + advisor).** Steps 1–5 are done and pushed. User still needs to put the Gemini key in `.env` (`Copy-Item .env.example .env`).
+
 - **2026-11-22, Step 1 (Setup)** done: CLAUDE.md, README.md, requirements.txt, .gitignore, .env.example, src/check_setup.py, git repo connected to GitHub.
 - Python 3.14 is used for `.venv` (decided 2026-11-22; no 3.11 install).
 - Project folder is inside OneDrive. `.venv` and `data/raw/` are large; OneDrive syncing them can lock files during `pip install`.
