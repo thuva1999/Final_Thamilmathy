@@ -100,7 +100,12 @@ Final_Thamilmathy/
 ---
 
 ## Progress log and facts found (Claude updates this)
-**NEXT SESSION: start Step 6 (knowledge base + advisor).** Steps 1–5 are done and pushed. User still needs to put the Gemini key in `.env` (`Copy-Item .env.example .env`).
+**NEXT: test Step 6 with a Gemini key, then Step 7 (Streamlit app).** User still needs to put the Gemini key in `.env` (`Copy-Item .env.example .env`).
+
+- **2026-11-23, Step 6 (knowledge_base.py, advisor.py)** built; fallback tested, Gemini path not yet tested (no key).
+  - `data/knowledge_base.csv` (committed; cleaned copy of the treatment table, 71 rows, row ids KB001–KB071, column `part` = what_it_is / do_now / prevent; feature typos fixed). Check the Mendeley licence (expected CC BY 4.0) before deployment because the table is redistributed.
+  - Retrieval: exact class→disease mapping first (Healthy Leaf → no rows, fixed message); embedding backup with all-MiniLM-L6-v2, similarity ≥ 0.35.
+  - Advisor: `get_advice(top, band, language)` → `Advice(markdown, sources, method, model, note)`. high → 4-part LLM advice from rows; medium → "Possibly A or B" from Symptoms rows; low → retake message. Safety check rejects LLM answers with numbers not in the retrieved rows (falls back to table rows). Gemini models tried in order: gemini-3.6-flash, gemini-3-flash-preview, gemini-2.5-flash (override with `LLM_MODEL`). Fixed UI texts and class names in en/uz/ru (Uzbek/Russian wording should be checked by a native speaker).
 
 - **2026-11-22, Step 1 (Setup)** done: CLAUDE.md, README.md, requirements.txt, .gitignore, .env.example, src/check_setup.py, git repo connected to GitHub.
 - Python 3.14 is used for `.venv` (decided 2026-11-22; no 3.11 install).
