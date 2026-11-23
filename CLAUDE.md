@@ -103,11 +103,8 @@ Final_Thamilmathy/
 - **2026-11-22, Step 1 (Setup)** done: CLAUDE.md, README.md, requirements.txt, .gitignore, .env.example, src/check_setup.py, git repo connected to GitHub.
 - Python 3.14 is used for `.venv` (decided 2026-11-22; no 3.11 install).
 - Project folder is inside OneDrive. `.venv` and `data/raw/` are large; OneDrive syncing them can lock files during `pip install`.
-- SAR-CLD-2024 class folder names (seen in the Augmented download; check the Original matches):
-  `Bacterial Blight`, `Curl Virus`, `Healthy Leaf`, `Herbicide Growth Damage`, `Leaf Hopper Jassids`, `Leaf Redding`, `Leaf Variegation`.
-- Only the SAR-CLD-2024 **Augmented** zip had been downloaded at Step 1; the **Original** images are still needed. The augmented set is never used.
-
 - LLM for advice: **Google Gemini free tier** (package `google-genai`, key in `.env` as `LLM_API_KEY`), decided 2026-11-22.
-- 2026-11-22: `Augmented Dataset/` contains only the 7,000 augmented SAR-CLD-2024 images. Original SAR-CLD images, EWU images and the treatment table are still to be downloaded.
+- 2026-11-23: **All 3 datasets in place.** SAR-CLD-2024 originals extracted to `data/raw/sarcld2024/Original Dataset/<class>/*.jpg` (2,137 images, file names like `BBC00001.jpg`). Counts: `Bacterial Blight` 250, `Curl Virus` 431, `Healthy Leaf` 257, `Herbicide Growth Damage` 280, `Leaf Hopper Jassids` 225, `Leaf Redding` 578, `Leaf Variegation` 116. Classes are imbalanced (5× between largest and smallest), so use macro-F1 and class weights.
+- Augmented copies (`Augmented Dataset/` in the project root for SAR-CLD, `Cotton_Augmented_Dataset` for EWU) are never used.
 - 2026-11-22: EWU originals extracted to `data/raw/ewu_cotton/Cotton_Original_Dataset/<class>/*.png` (1,373 images). Class folders: `Alternaria Leaf Spot` 173, `Bacterial Blight` 218, `Fusarium Wilt` 337, `Healthy Leaf` 333, `Verticillium Wilt` 312. Shared with SAR-CLD-2024: `Bacterial Blight`, `Healthy Leaf` (same spelling).
 - 2026-11-22: Treatment table extracted to `data/raw/treatment/A Comprehensive Dataset of Cotton Plant Diseases f/Data.csv` (82 rows; columns `Disease`, `Feature`, `Description`; blank separator rows between diseases). 12 diseases: Wilt, Bacterial Blight, Herbicide Growth Damage, Leaf Hopper Jassids, Curl Virus, Aphids, Fall Armyworm, Powdery Mildew, Cotton Boll Rot, Leaf Redding, Leaf Variegation, Target spot. All 6 non-healthy SAR-CLD classes match by exact name.

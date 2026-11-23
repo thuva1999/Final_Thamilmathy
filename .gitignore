@@ -12,6 +12,7 @@ data/raw/
 Augmented Dataset/
 Original Dataset/
 Cotton Leaf Image Dataset*/
+SAR-CLD-2024*/
 
 # Trained model weights (big files; added only at deployment step)
 models/*.pt
