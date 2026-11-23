@@ -1,0 +1,5 @@
+name,split,accuracy,macro_f1,best_epoch,train_minutes,device
+cnn_small_noaug,val,0.9717868338557993,0.968819679391485,15,8.3,cpu
+cnn_small_noaug,test,0.9529780564263323,0.9580383199007054,15,8.3,cpu
+cnn_small_aug,val,0.9561128526645768,0.9538768782803888,15,11.3,cpu
+cnn_small_aug,test,0.9561128526645768,0.9572550801936109,15,11.3,cpu

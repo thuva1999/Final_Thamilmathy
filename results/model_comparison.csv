@@ -1,0 +1,5 @@
+name,split,accuracy,macro_f1
+majority_class,test,0.273,0.061
+random_forest,test,0.893,0.891
+cnn_small_noaug,test,0.953,0.958
+cnn_small_aug,test,0.956,0.957
