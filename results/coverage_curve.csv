@@ -1,0 +1,203 @@
+threshold,coverage,accuracy,dataset
+0.0,1.0,0.9561,SAR-CLD test
+0.01,1.0,0.9561,SAR-CLD test
+0.02,1.0,0.9561,SAR-CLD test
+0.03,1.0,0.9561,SAR-CLD test
+0.04,1.0,0.9561,SAR-CLD test
+0.05,1.0,0.9561,SAR-CLD test
+0.06,1.0,0.9561,SAR-CLD test
+0.07,1.0,0.9561,SAR-CLD test
+0.08,1.0,0.9561,SAR-CLD test
+0.09,1.0,0.9561,SAR-CLD test
+0.1,1.0,0.9561,SAR-CLD test
+0.11,1.0,0.9561,SAR-CLD test
+0.12,1.0,0.9561,SAR-CLD test
+0.13,1.0,0.9561,SAR-CLD test
+0.14,1.0,0.9561,SAR-CLD test
+0.15,1.0,0.9561,SAR-CLD test
+0.16,1.0,0.9561,SAR-CLD test
+0.17,1.0,0.9561,SAR-CLD test
+0.18,1.0,0.9561,SAR-CLD test
+0.19,1.0,0.9561,SAR-CLD test
+0.2,1.0,0.9561,SAR-CLD test
+0.21,1.0,0.9561,SAR-CLD test
+0.22,1.0,0.9561,SAR-CLD test
+0.23,1.0,0.9561,SAR-CLD test
+0.24,1.0,0.9561,SAR-CLD test
+0.25,1.0,0.9561,SAR-CLD test
+0.26,1.0,0.9561,SAR-CLD test
+0.27,1.0,0.9561,SAR-CLD test
+0.28,1.0,0.9561,SAR-CLD test
+0.29,1.0,0.9561,SAR-CLD test
+0.3,1.0,0.9561,SAR-CLD test
+0.31,1.0,0.9561,SAR-CLD test
+0.32,1.0,0.9561,SAR-CLD test
+0.33,1.0,0.9561,SAR-CLD test
+0.34,1.0,0.9561,SAR-CLD test
+0.35,1.0,0.9561,SAR-CLD test
+0.36,0.9969,0.9591,SAR-CLD test
+0.37,0.9969,0.9591,SAR-CLD test
+0.38,0.9937,0.959,SAR-CLD test
+0.39,0.9906,0.9589,SAR-CLD test
+0.4,0.9906,0.9589,SAR-CLD test
+0.41,0.9906,0.9589,SAR-CLD test
+0.42,0.9906,0.9589,SAR-CLD test
+0.43,0.9906,0.9589,SAR-CLD test
+0.44,0.9906,0.9589,SAR-CLD test
+0.45,0.9906,0.9589,SAR-CLD test
+0.46,0.9906,0.9589,SAR-CLD test
+0.47,0.9906,0.9589,SAR-CLD test
+0.48,0.9906,0.9589,SAR-CLD test
+0.49,0.9906,0.9589,SAR-CLD test
+0.5,0.9906,0.9589,SAR-CLD test
+0.51,0.9906,0.9589,SAR-CLD test
+0.52,0.9906,0.9589,SAR-CLD test
+0.53,0.9875,0.9587,SAR-CLD test
+0.54,0.9875,0.9587,SAR-CLD test
+0.55,0.9843,0.9618,SAR-CLD test
+0.56,0.9843,0.9618,SAR-CLD test
+0.57,0.9843,0.9618,SAR-CLD test
+0.58,0.9843,0.9618,SAR-CLD test
+0.59,0.9781,0.9647,SAR-CLD test
+0.6,0.9781,0.9647,SAR-CLD test
+0.61,0.9781,0.9647,SAR-CLD test
+0.62,0.9749,0.9678,SAR-CLD test
+0.63,0.9718,0.971,SAR-CLD test
+0.64,0.9718,0.971,SAR-CLD test
+0.65,0.9687,0.9709,SAR-CLD test
+0.66,0.9687,0.9709,SAR-CLD test
+0.67,0.9655,0.9708,SAR-CLD test
+0.68,0.9655,0.9708,SAR-CLD test
+0.69,0.9624,0.9739,SAR-CLD test
+0.7,0.9592,0.9771,SAR-CLD test
+0.71,0.9561,0.977,SAR-CLD test
+0.72,0.9561,0.977,SAR-CLD test
+0.73,0.953,0.9803,SAR-CLD test
+0.74,0.953,0.9803,SAR-CLD test
+0.75,0.953,0.9803,SAR-CLD test
+0.76,0.9498,0.9802,SAR-CLD test
+0.77,0.9498,0.9802,SAR-CLD test
+0.78,0.9467,0.9801,SAR-CLD test
+0.79,0.9373,0.9866,SAR-CLD test
+0.8,0.9342,0.9866,SAR-CLD test
+0.81,0.931,0.9865,SAR-CLD test
+0.82,0.9248,0.9864,SAR-CLD test
+0.83,0.9248,0.9864,SAR-CLD test
+0.84,0.9248,0.9864,SAR-CLD test
+0.85,0.9216,0.9864,SAR-CLD test
+0.86,0.9216,0.9864,SAR-CLD test
+0.87,0.9122,0.9863,SAR-CLD test
+0.88,0.906,0.9862,SAR-CLD test
+0.89,0.9028,0.9861,SAR-CLD test
+0.9,0.8934,0.993,SAR-CLD test
+0.91,0.8903,0.993,SAR-CLD test
+0.92,0.8871,0.9929,SAR-CLD test
+0.93,0.8746,0.9964,SAR-CLD test
+0.94,0.8652,0.9964,SAR-CLD test
+0.95,0.8558,0.9963,SAR-CLD test
+0.96,0.8495,0.9963,SAR-CLD test
+0.97,0.837,0.9963,SAR-CLD test
+0.98,0.8276,0.9962,SAR-CLD test
+0.99,0.7712,1.0,SAR-CLD test
+1.0,0.0094,1.0,SAR-CLD test
+0.0,1.0,0.3171,EWU (shared classes)
+0.01,1.0,0.3171,EWU (shared classes)
+0.02,1.0,0.3171,EWU (shared classes)
+0.03,1.0,0.3171,EWU (shared classes)
+0.04,1.0,0.3171,EWU (shared classes)
+0.05,1.0,0.3171,EWU (shared classes)
+0.06,1.0,0.3171,EWU (shared classes)
+0.07,1.0,0.3171,EWU (shared classes)
+0.08,1.0,0.3171,EWU (shared classes)
+0.09,1.0,0.3171,EWU (shared classes)
+0.1,1.0,0.3171,EWU (shared classes)
+0.11,1.0,0.3171,EWU (shared classes)
+0.12,1.0,0.3171,EWU (shared classes)
+0.13,1.0,0.3171,EWU (shared classes)
+0.14,1.0,0.3171,EWU (shared classes)
+0.15,1.0,0.3171,EWU (shared classes)
+0.16,1.0,0.3171,EWU (shared classes)
+0.17,1.0,0.3171,EWU (shared classes)
+0.18,1.0,0.3171,EWU (shared classes)
+0.19,1.0,0.3171,EWU (shared classes)
+0.2,1.0,0.3171,EWU (shared classes)
+0.21,1.0,0.3171,EWU (shared classes)
+0.22,1.0,0.3171,EWU (shared classes)
+0.23,1.0,0.3171,EWU (shared classes)
+0.24,1.0,0.3171,EWU (shared classes)
+0.25,1.0,0.3171,EWU (shared classes)
+0.26,1.0,0.3171,EWU (shared classes)
+0.27,1.0,0.3171,EWU (shared classes)
+0.28,1.0,0.3171,EWU (shared classes)
+0.29,1.0,0.3171,EWU (shared classes)
+0.3,1.0,0.3171,EWU (shared classes)
+0.31,1.0,0.3171,EWU (shared classes)
+0.32,1.0,0.3171,EWU (shared classes)
+0.33,0.9971,0.3181,EWU (shared classes)
+0.34,0.9971,0.3181,EWU (shared classes)
+0.35,0.9943,0.3161,EWU (shared classes)
+0.36,0.9914,0.317,EWU (shared classes)
+0.37,0.9886,0.3179,EWU (shared classes)
+0.38,0.9857,0.3188,EWU (shared classes)
+0.39,0.9829,0.3198,EWU (shared classes)
+0.4,0.98,0.3207,EWU (shared classes)
+0.41,0.98,0.3207,EWU (shared classes)
+0.42,0.98,0.3207,EWU (shared classes)
+0.43,0.98,0.3207,EWU (shared classes)
+0.44,0.9771,0.3187,EWU (shared classes)
+0.45,0.9743,0.3196,EWU (shared classes)
+0.46,0.9714,0.3176,EWU (shared classes)
+0.47,0.9657,0.3166,EWU (shared classes)
+0.48,0.9543,0.3204,EWU (shared classes)
+0.49,0.9486,0.3223,EWU (shared classes)
+0.5,0.9257,0.3241,EWU (shared classes)
+0.51,0.9086,0.3302,EWU (shared classes)
+0.52,0.9057,0.3312,EWU (shared classes)
+0.53,0.8829,0.3236,EWU (shared classes)
+0.54,0.88,0.3214,EWU (shared classes)
+0.55,0.8714,0.3246,EWU (shared classes)
+0.56,0.86,0.3256,EWU (shared classes)
+0.57,0.8543,0.3244,EWU (shared classes)
+0.58,0.8371,0.3276,EWU (shared classes)
+0.59,0.82,0.3345,EWU (shared classes)
+0.6,0.8086,0.3392,EWU (shared classes)
+0.61,0.8086,0.3392,EWU (shared classes)
+0.62,0.8057,0.3404,EWU (shared classes)
+0.63,0.8,0.3429,EWU (shared classes)
+0.64,0.7829,0.3431,EWU (shared classes)
+0.65,0.7686,0.3494,EWU (shared classes)
+0.66,0.7571,0.3509,EWU (shared classes)
+0.67,0.7514,0.3498,EWU (shared classes)
+0.68,0.7514,0.3498,EWU (shared classes)
+0.69,0.7429,0.3538,EWU (shared classes)
+0.7,0.74,0.3552,EWU (shared classes)
+0.71,0.7343,0.3541,EWU (shared classes)
+0.72,0.7314,0.3555,EWU (shared classes)
+0.73,0.7143,0.364,EWU (shared classes)
+0.74,0.7,0.3714,EWU (shared classes)
+0.75,0.6971,0.373,EWU (shared classes)
+0.76,0.6857,0.3708,EWU (shared classes)
+0.77,0.68,0.3739,EWU (shared classes)
+0.78,0.6657,0.3777,EWU (shared classes)
+0.79,0.66,0.3766,EWU (shared classes)
+0.8,0.6571,0.3739,EWU (shared classes)
+0.81,0.6514,0.3728,EWU (shared classes)
+0.82,0.6314,0.3756,EWU (shared classes)
+0.83,0.6114,0.3692,EWU (shared classes)
+0.84,0.5971,0.3732,EWU (shared classes)
+0.85,0.5829,0.3725,EWU (shared classes)
+0.86,0.5714,0.38,EWU (shared classes)
+0.87,0.56,0.3878,EWU (shared classes)
+0.88,0.54,0.381,EWU (shared classes)
+0.89,0.5229,0.3825,EWU (shared classes)
+0.9,0.5086,0.3876,EWU (shared classes)
+0.91,0.4914,0.3837,EWU (shared classes)
+0.92,0.4686,0.372,EWU (shared classes)
+0.93,0.4429,0.3677,EWU (shared classes)
+0.94,0.4143,0.3724,EWU (shared classes)
+0.95,0.3886,0.3824,EWU (shared classes)
+0.96,0.3543,0.4113,EWU (shared classes)
+0.97,0.3343,0.4188,EWU (shared classes)
+0.98,0.2914,0.4118,EWU (shared classes)
+0.99,0.1971,0.4058,EWU (shared classes)
+1.0,0.0,,EWU (shared classes)

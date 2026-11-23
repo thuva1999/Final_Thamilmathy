@@ -1,0 +1,5 @@
+model,dataset,images,accuracy,macro_f1,recall_Bacterial Blight,recall_Healthy Leaf
+cnn_small_noaug,SAR-CLD test,75,0.96,0.973,0.921,1.0
+cnn_small_noaug,EWU external,350,0.091,0.159,0.006,0.181
+cnn_small_aug,SAR-CLD test,75,0.947,0.959,0.895,1.0
+cnn_small_aug,EWU external,350,0.317,0.41,0.039,0.608

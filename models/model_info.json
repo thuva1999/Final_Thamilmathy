@@ -1,0 +1,47 @@
+{
+  "model_file": "cottoncare_model.pt",
+  "source_run": "small_aug",
+  "selection_reason": "chosen over best-validation run (small_noaug, val F1 0.969 vs 0.954) because it is far more robust on the EWU external photos (F1 0.41 vs 0.16); this choice used the EWU result",
+  "arch": "small",
+  "classes": [
+    "Bacterial Blight",
+    "Curl Virus",
+    "Healthy Leaf",
+    "Herbicide Growth Damage",
+    "Leaf Hopper Jassids",
+    "Leaf Redding",
+    "Leaf Variegation"
+  ],
+  "img_size": 224,
+  "thresholds": {
+    "high": 0.7538,
+    "low": 0.5
+  },
+  "target_accuracy_high": 0.98,
+  "low_threshold_rule": "top-1 confidence < 0.5",
+  "seed": 42,
+  "test_metrics": {
+    "accuracy": 0.9561,
+    "macro_f1": 0.9573
+  },
+  "external_test": [
+    {
+      "model": "cnn_small_aug",
+      "dataset": "SAR-CLD test",
+      "images": 75,
+      "accuracy": 0.947,
+      "macro_f1": 0.959,
+      "recall_Bacterial Blight": 0.895,
+      "recall_Healthy Leaf": 1.0
+    },
+    {
+      "model": "cnn_small_aug",
+      "dataset": "EWU external",
+      "images": 350,
+      "accuracy": 0.317,
+      "macro_f1": 0.41,
+      "recall_Bacterial Blight": 0.039,
+      "recall_Healthy Leaf": 0.608
+    }
+  ]
+}

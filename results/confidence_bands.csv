@@ -1,0 +1,5 @@
+dataset,images,share_high,share_medium,share_low,accuracy_all,accuracy_high,top2_accuracy_medium
+SAR-CLD validation,319,0.947,0.047,0.006,0.956,0.98,1.0
+SAR-CLD test,319,0.953,0.038,0.009,0.956,0.98,0.917
+EWU shared classes,350,0.694,0.231,0.074,0.317,0.37,0.481
+EWU unseen diseases,732,0.615,0.281,0.104,,,
