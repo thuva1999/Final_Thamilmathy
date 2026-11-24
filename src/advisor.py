@@ -20,6 +20,7 @@ Run from the project folder:  python src/advisor.py   (prints example answers)
 """
 import os
 import re
+import time
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -30,8 +31,14 @@ from knowledge_base import SOURCE, retrieve
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Tried in this order unless LLM_MODEL is set in .env (free-tier models change often)
-DEFAULT_MODELS = ["gemini-3.6-flash", "gemini-3-flash-preview", "gemini-2.5-flash"]
+# Tried in this order unless LLM_MODEL is set in .env (free-tier models change often;
+# checked on 2026-11-24 with a new free key: 2.5 models are closed to new users)
+# The fast "lite" model goes first so farmers do not wait long.
+DEFAULT_MODELS = ["gemini-3.5-flash-lite", "gemini-3.6-flash", "gemini-3.5-flash",
+                  "gemini-3.1-flash-lite"]
+BUSY_RETRY_SECONDS = 2       # a busy model (error 503) gets one more try after this pause
+REQUEST_TIMEOUT_MS = 20_000  # give up on one request after 20 seconds
+TOTAL_BUDGET_SECONDS = 45    # after this, stop trying and show the knowledge-base rows
 
 LANGUAGE_NAMES = {"en": "English", "uz": "Uzbek (Latin script)", "ru": "Russian"}
 
@@ -199,19 +206,32 @@ def call_llm(system, prompt):
         raise RuntimeError("no LLM_API_KEY in .env")
     from google import genai
     from google.genai import types
-    client = genai.Client(api_key=key)
+    # Each request may take at most REQUEST_TIMEOUT_MS; then the next model is tried
+    client = genai.Client(api_key=key,
+                          http_options=types.HttpOptions(timeout=REQUEST_TIMEOUT_MS))
     models = [os.getenv("LLM_MODEL").strip()] if os.getenv("LLM_MODEL") else DEFAULT_MODELS
+    config = types.GenerateContentConfig(system_instruction=system, temperature=0.2)
     errors = []
+    start = time.time()
     for model in models:
-        try:
-            response = client.models.generate_content(
-                model=model, contents=prompt,
-                config=types.GenerateContentConfig(system_instruction=system, temperature=0.2))
-            if response.text and response.text.strip():
-                return response.text.strip(), model
-            errors.append(f"{model}: empty answer")
-        except Exception as e:  # wrong model name, quota, network ...
-            errors.append(f"{model}: {str(e)[:120]}")
+        if time.time() - start > TOTAL_BUDGET_SECONDS:
+            errors.append("time budget used up")
+            break
+        for attempt in range(2):
+            try:
+                response = client.models.generate_content(model=model, contents=prompt,
+                                                          config=config)
+                if response.text and response.text.strip():
+                    return response.text.strip(), model
+                errors.append(f"{model}: empty answer")
+                break
+            except Exception as e:  # wrong model name, quota, busy, network ...
+                busy = "503" in str(e) or "UNAVAILABLE" in str(e)
+                if busy and attempt == 0:
+                    time.sleep(BUSY_RETRY_SECONDS)
+                    continue
+                errors.append(f"{model}: {str(e)[:120]}")
+                break
     raise RuntimeError("; ".join(errors))
 
 
