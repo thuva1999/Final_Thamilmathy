@@ -100,7 +100,9 @@ Final_Thamilmathy/
 ---
 
 ## Progress log and facts found (Claude updates this)
-**NEXT: test Step 6 with a Gemini key, then Step 7 (Streamlit app).** User still needs to put the Gemini key in `.env` (`Copy-Item .env.example .env`).
+**NEXT: Step 7 (Streamlit app).** Gemini key is in `.env` (never commit it).
+
+- **2026-11-24, Step 6 tested with Gemini.** New free keys cannot use gemini-2.5-*; models that exist for this key: 3.5-flash(-lite), 3.6/3.7/3.8-flash, 3.1-flash-lite. Free tier is often overloaded (503/504), so advisor tries `gemini-3.5-flash-lite` first (fast), retries busy models once, 20 s per request, 45 s total, then falls back to table rows. Working LLM answers seen in English and Russian; lite model makes occasional small language slips (e.g. Russian typos) - note for the Step 8 advice rating.
 
 - **2026-11-23, Step 6 (knowledge_base.py, advisor.py)** built; fallback tested, Gemini path not yet tested (no key).
   - `data/knowledge_base.csv` (committed; cleaned copy of the treatment table, 71 rows, row ids KB001–KB071, column `part` = what_it_is / do_now / prevent; feature typos fixed). Check the Mendeley licence (expected CC BY 4.0) before deployment because the table is redistributed.
